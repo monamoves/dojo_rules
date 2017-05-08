@@ -6,6 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Confusion
-* All confusion
-* Infinite confusion
-* All of it
+
