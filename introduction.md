@@ -3,4 +3,4 @@ Hello, my name is Monamoves.
 * some javascript
 * some git
 * some html emails
-
+* deleting repos
